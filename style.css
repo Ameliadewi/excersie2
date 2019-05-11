@@ -1,0 +1,15 @@
+form{
+    width: 160px;
+    margin:auto;
+    background: #3E3E3E;
+    box-shadow: 0px 2px 5px #000;
+    padding:15px;
+}
+input[type=text]{
+    width: 120px;
+    border-bottom: 1px solid grey;
+    font-size: 18px;
+    color:black;
+}
+td{
+    padding:3px;
